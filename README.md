@@ -28,6 +28,6 @@ Analizar el comportamiento de clientes en base a su frecuencia de compra y gasto
 ---
 
 ## 📊 Dashboard
-![Dashboard](nombre-imagen.png)
+
 
 ![dashboard2](https://github.com/user-attachments/assets/83c1a01a-e76d-40bf-a4cd-07b8c0d2b39c)
