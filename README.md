@@ -1,9 +1,9 @@
-📊 Análisis de Clientes
-🎯 Objetivo
+##📊 Análisis de Clientes
+##🎯 Objetivo
 
 Analizar el comportamiento de clientes en base a su frecuencia de compra y gasto total.
 
-🛠️ Herramientas utilizadas
+##🛠️ Herramientas utilizadas
 Excel
 Power BI
 📈 Análisis realizado
@@ -12,7 +12,7 @@ Cálculo de métricas:
 Frecuencia de compra
 Gasto total
 Ticket promedio
-🔍 Insights
+##🔍 Insights
 La mayoría de los clientes presenta baja frecuencia de compra
 Un grupo reducido concentra el mayor gasto
 Se identifican oportunidades de fidelización
